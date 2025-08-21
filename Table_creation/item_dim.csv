@@ -1,0 +1,11 @@
+item_key,item_name,brand,type,supplier_type,brand_key,type_key,supplier_key
+1,Item_1,BrandC,Grocery,Local,3,3,1
+2,Item_2,BrandC,Clothing,International,3,2,2
+3,Item_3,BrandA,Grocery,Local,1,3,1
+4,Item_4,BrandC,Clothing,Local,3,2,1
+5,Item_5,BrandA,Clothing,Local,1,2,1
+6,Item_6,BrandB,Electronics,International,2,1,2
+7,Item_7,BrandC,Electronics,International,3,1,2
+8,Item_8,BrandA,Grocery,Local,1,3,1
+9,Item_9,BrandB,Clothing,International,2,2,2
+10,Item_10,BrandA,Grocery,Local,1,3,1
