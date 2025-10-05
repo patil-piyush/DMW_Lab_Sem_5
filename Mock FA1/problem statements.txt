@@ -1,0 +1,33 @@
+1 - data discovery and visualization
+for a given dataset of quantity and price
+1) scatter plot to detect any outliers in the data
+2) highlight the orders above 90%ile of price
+
+
+
+2 - data cleaning and mapping
+for a given dataset of cities 
+1) replace the missing city with the most frequent city of that region
+2) create a chart which shows total sales per city
+
+
+3 - relationship modelling and reporting
+1) draw a star schema for employee and order 
+2) create a bar chart showing sales by employee 
+
+
+4 - OLAP operations
+1) create a time hierarchy showing year - quarter - month - days , analysing the sales
+2) aggregate the data from city to state and state to region
+
+
+
+5 - profitability and insights
+for a given table of revenue and cost
+1) plot the scatter chart with sales on x axis and profit margin on y axis
+2) identify products that have high profit margin but low sales
+
+
+6 - OLAP slice dice
+1) slice the cube for region equal to east ,  and show only eastern sales
+2) dice the cube for region equal to west and category equal to technology

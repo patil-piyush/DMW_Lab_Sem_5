@@ -1,0 +1,51 @@
+Region,State,City,Year,Quarter,Month,Day,Date,Sales
+West,Maharashtra,Mumbai,2024,1,3,24,2024-03-24,15989.03
+East,Bihar,Gaya,2023,4,10,23,2023-10-23,7274.95
+North,Delhi,Delhi City,2023,2,6,5,2023-06-05,10147.07
+South,Karnataka,Mysore,2023,4,10,28,2023-10-28,17496.65
+East,Bihar,Patna,2023,2,6,1,2023-06-01,1809.92
+East,Bihar,Patna,2024,1,3,3,2024-03-03,18319.45
+West,Rajasthan,Udaipur,2024,2,5,8,2024-05-08,15448.29
+North,Haryana,Gurgaon,2024,3,7,31,2024-07-31,10209.95
+South,Karnataka,Mysore,2024,2,5,11,2024-05-11,4987.76
+South,Tamil Nadu,Coimbatore,2024,1,3,28,2024-03-28,2164.37
+East,Bihar,Patna,2024,4,10,20,2024-10-20,6409.8
+South,Tamil Nadu,Chennai,2024,3,9,15,2024-09-15,1550.86
+North,Haryana,Faridabad,2023,4,11,1,2023-11-01,10312.69
+South,Karnataka,Bangalore,2024,4,10,20,2024-10-20,14670.13
+West,Maharashtra,Pune,2023,1,1,19,2023-01-19,18962.17
+South,Karnataka,Mysore,2024,2,5,18,2024-05-18,18835.28
+North,Delhi,Delhi City,2024,4,12,11,2024-12-11,3325.23
+West,Maharashtra,Pune,2023,4,10,28,2023-10-28,2757.98
+West,Rajasthan,Udaipur,2024,4,12,26,2024-12-26,14844.7
+South,Tamil Nadu,Chennai,2024,3,9,22,2024-09-22,11310.34
+East,West Bengal,Kolkata,2024,1,2,26,2024-02-26,14288.96
+West,Maharashtra,Pune,2023,2,6,14,2023-06-14,13919.52
+North,Haryana,Faridabad,2024,2,5,9,2024-05-09,14687.18
+North,Haryana,Faridabad,2023,2,6,7,2023-06-07,13168.11
+East,Bihar,Gaya,2023,3,9,13,2023-09-13,3977.69
+North,Delhi,Delhi City,2024,1,2,18,2024-02-18,17434.77
+South,Karnataka,Bangalore,2024,2,5,10,2024-05-10,16032.5
+West,Maharashtra,Pune,2024,2,4,3,2024-04-03,19020.23
+North,Delhi,Delhi City,2024,2,6,6,2024-06-06,12251.44
+East,West Bengal,Kolkata,2023,1,1,26,2023-01-26,4128.01
+South,Tamil Nadu,Chennai,2024,4,10,8,2024-10-08,15970.3
+North,Delhi,Delhi City,2024,4,10,26,2024-10-26,18816.64
+North,Haryana,Gurgaon,2023,4,10,22,2023-10-22,12183.26
+North,Haryana,Faridabad,2023,2,4,6,2023-04-06,8994.29
+East,Bihar,Gaya,2023,3,7,10,2023-07-10,18819.7
+North,Haryana,Gurgaon,2023,2,6,30,2023-06-30,5703.52
+East,Bihar,Patna,2023,2,6,20,2023-06-20,7475.97
+South,Tamil Nadu,Chennai,2023,4,10,1,2023-10-01,1426.84
+North,Delhi,Delhi City,2024,3,7,10,2024-07-10,11209.51
+South,Karnataka,Bangalore,2023,1,2,10,2023-02-10,4992.56
+East,West Bengal,Howrah,2023,1,3,20,2023-03-20,10534.67
+North,Delhi,Delhi City,2023,1,2,22,2023-02-22,12526.83
+West,Maharashtra,Mumbai,2024,1,3,31,2024-03-31,18891.63
+North,Delhi,Delhi City,2023,1,3,21,2023-03-21,3097.09
+West,Rajasthan,Jaipur,2024,2,5,1,2024-05-01,7492.23
+North,Haryana,Faridabad,2024,2,6,12,2024-06-12,14985.24
+South,Tamil Nadu,Coimbatore,2023,2,6,28,2023-06-28,11662.43
+South,Karnataka,Mysore,2024,1,3,19,2024-03-19,13636.63
+East,Bihar,Gaya,2023,4,12,15,2023-12-15,4428.6
+East,West Bengal,Kolkata,2023,4,11,8,2023-11-08,13621.91
